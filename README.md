@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @subhamnandi12345
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Subham Nandi ,an enthusiast Engineer.
+
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning  Backend Development(Scala)
+- 💞️ I’m looking to collaborate on Various Projects
 - 📫 How to reach me ...Email---subhamnandi811@gmail.com  Phone no--8116242368
 
 <!---
